@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "modifed mv",
+  "version": "2.0",
+  "description": "test project",
+
+  "chrome_url_overrides": {
+    "newtab": "weeb.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "permissions": ["activeTab", "storage"],
+  "icons": { "16": "icon.png", "48": "icon.png", "128": "icon.png" }
+}
