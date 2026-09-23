@@ -1,7 +1,7 @@
 # Google Weeb
 
 A minimalist new tab extension featuring a live clock, date, and rotating quotes.  
-Here the example  [aira-isla.github.io/weeb](https://aira-isla.github.io/weeb/).
+Here the example  [Demo](https://aira-isla.github.io/weeb/).
 
 ---
 
@@ -151,4 +151,4 @@ Feel free to modify and distribute as needed.
 
 ---
 
-*Design inspired by [Google Weeb](https://aira-isla.github.io/weeb/).*
+*[Demo](https://aira-isla.github.io/weeb/).*
