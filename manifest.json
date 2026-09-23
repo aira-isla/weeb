@@ -5,7 +5,7 @@
   "description": "test project",
 
   "chrome_url_overrides": {
-    "newtab": "weeb.html"
+    "newtab": "index.html"
   },
   "background": {
     "service_worker": "background.js"
