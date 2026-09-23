@@ -122,7 +122,6 @@ function createQuoteCard(quote) {
 
   return `
     <div class="quote-card">
-      <button class="quote-refresh" aria-label="New quote" title="New quote">↻</button>
       <p class="quote-text">“${content}”</p>
       <p class="quote-character">— ${character}</p>
     </div>
